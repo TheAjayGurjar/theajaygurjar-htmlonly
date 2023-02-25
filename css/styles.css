@@ -1,0 +1,35 @@
+/* tag selectors */
+hr{
+    background-color: lightblue;
+    border-style: dotted none none none;
+    height: 0px;
+    border-width: 5px;
+    border-color: gray;
+    width: 10%;
+}
+body{
+    background-color: rgba(173, 230, 230, 0.619);
+}
+h1{
+    color: rgb(43, 223, 226);
+}
+h3{
+    color: rgb(43, 214, 226);
+}
+img:hover{
+    background-color: gold;
+}
+/* class seletor */
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+/* id selector */
+#heading{
+    color: red;
+}
