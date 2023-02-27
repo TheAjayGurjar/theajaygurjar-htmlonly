@@ -1,7 +1,8 @@
 /* tag selectors */
 hr{
-    background-color: lightblue;
-    border-style: dotted none none none;
+    background-color: rgba(173, 230, 230, 0.619);
+    border-style: none;
+    border-top-style: dotted;
     height: 0px;
     border-width: 5px;
     border-color: gray;
